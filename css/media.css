@@ -1,0 +1,1654 @@
+@media(max-width:1341px){
+    .plan {
+        padding-block: 50px;
+        gap: 140px;
+    }
+    .imm2 {
+        top: 205px;
+        left: 740px;
+    }
+    .imm3 {
+        top: 205px;
+        left: 320px;
+    }
+    .imm {
+        top: -190px;
+        left: 525px;
+    }
+}
+@media(max-width:1330px){
+    .plan {
+        gap: 140px;
+    }
+    .imm3 {
+        top: 200px;
+        left: 313px;
+    }
+    .imm2 {
+        top: 200px;
+        left: 733px;
+    }
+    .imm {
+        top: -183px;
+        left: 520px;
+    }
+    .ent {
+        top: -328px;
+        left: 720px;
+    }
+    .market1 {
+        top: -203px;
+        left: 570px;
+    }
+    .box {
+        gap: 20px;
+    }
+    .about {
+        padding-block: 115px;
+        gap: 90px;
+        width: 990px;
+    }
+    .market {
+        top: -283px;
+        left: 965px;
+    }
+    .about-text h1 {
+        width: 523px;
+        font-size: 48px;
+        font-weight: 600;
+    }
+    .pages-box img {
+        height: 135px;
+        padding: 0 0 14px 0;
+    }
+}
+@media(max-width:1317px){
+    .computer {
+        gap: 15px;
+    }
+    .plan {
+        gap: 135px;
+    }
+    .plan-box {
+        width: 270px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .plan3-box {
+        width: 270px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .plan2-box {
+        width: 270px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .plan4-box {
+        width: 270px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .plan5-box {
+        width: 270px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .pages-box {
+        padding: 14px;
+        width: 215px;
+        border-radius: 13px;
+    }
+    .popular-box {
+        padding: 25px;
+        width: 345px;
+        border-radius: 10px;
+        border: solid 1px rgb(168, 166, 166);
+    }
+    .imm2 {
+        top: 200px;
+        left: 712px;
+    }
+    .imm3 {
+        top: 200px;
+        left: 305px;
+    }
+    .imm {
+        top: -183px;
+        left: 503px;
+    }
+    .imm4 {
+        top: 395px;
+        left: 975px;
+    }
+    .enter {
+        padding: 90px;
+        height: 190px;
+        border-radius: 20px;
+    }
+    .ent {
+        top: -328px;
+        left: 710px;
+    }
+    .market1 {
+        top: -203px;
+        left: 530px;
+    }
+    .computer-box {
+        padding: 20px;
+        border-radius: 15px;
+        width: 270px;
+        height: 54px;
+    }
+    .color1-red {
+        top: -205px;
+        left: 720px;
+    }
+    .color-red {
+        top: -440px;
+        left: 654px;
+    }
+    .color-blue {
+        bottom: -104px;
+        left: 965px;
+    }
+}
+@media(max-width:1270px){
+    .plan {
+        gap: 120px;
+    }
+    .imm2 {
+        top: 200px;
+        left: 693px;
+    }
+    .imm3 {
+        top: 200px;
+        left: 301px;
+    }
+    .imm {
+        top: -183px;
+        left: 495px;
+    }
+    .imm4 {
+        top: 395px;
+        left: 940px;
+    }
+}
+@media(max-width:1230px){
+    .plan {
+        gap: 115px;
+    }
+    .imm2 {
+        top: 200px;
+        left: 673px;
+    }
+    .imm3 {
+        top: 200px;
+        left: 287px;
+    }
+    .imm {
+        top: -183px;
+        left: 477px;
+    }
+    .imm4 {
+        top: 395px;
+        left: 905px;
+    }
+    .computer-box {
+        padding: 15px;
+        border-radius: 15px;
+        width: 265px;
+        height: 54px;
+    }
+    .ent img {
+        height: 390px;
+    }
+    .about {
+        padding-block: 115px;
+        gap: 1px;
+        width: 960px;
+    }
+    .market img {
+        width: 240px;
+    }
+    .market {
+        top: -284px;
+        left: 930px;
+    }
+}
+@media(max-width:1223px){
+    .box {
+        gap: 45px;
+    }
+    .pages-box {
+        padding: 16px;
+        width: 280px;
+        border-radius: 13px;
+    }
+    .enter-text h1 {
+        font-size: 37px;
+        color: #fff;
+    }
+    .enter-text p {
+        color: #fff;
+        font-size: 17px;
+        width: 365px;
+        line-height: 28px;
+    }
+    .input input {
+        width: 255px;
+        border-radius: 40px;
+    }
+    .market1 {
+        top: -200px;
+        left: 500px;
+    }
+    .ent {
+        top: -328px;
+        left: 680px;
+    }
+    .imm3 {
+        top: 200px;
+        left: 476px;
+    }
+    .imm4 {
+        top: 770px;
+        left: 274px;
+        transform: rotateY(180deg);
+    }
+    .imm {
+        top: -570px;
+        left: 474px;
+    }
+    .imm2 {
+        top: 380px;
+        left: 674px;
+        transform: rotate(90deg);
+    }
+    .about {
+        padding-block: 115px;
+        gap: 1px;
+        width: 920px;
+    }
+    .color-red {
+        top: -440px;
+        left: 600px;
+    }   
+    .color1-red {
+        top: -205px;
+        left: 645px;
+    }
+    .color-blue {
+        bottom: -104px;
+        left: 895px;
+    }
+    .market img {
+        width: 235px;
+    }
+    .market {
+        top: -284px;
+        left: 880px;
+    }
+    .company-box {
+        width: 285px;
+        padding: 15px;
+        border-radius: 15px;
+        gap: 10px;
+    }
+    .computer-box {
+        padding: 14px;
+        border-radius: 15px;
+        width: 260px;
+        height: 54px;
+    }
+}
+@media(max-width:1214px){
+    .pages-box {
+        padding: 16px;
+        width: 270px;
+        border-radius: 13px;
+    }
+    .imm3 {
+        top: 198px;
+        left: 474px;
+    }
+    .imm2 {
+        top: 403px;
+        left: 690px;
+        transform: rotate(90deg);
+    }
+   .imm {
+        top: -630px;
+        left: 470px;
+    }
+    .imm4 {
+        top: 825px;
+        left: 265px;
+        transform: rotateY(180deg);
+    }
+    .box {
+        gap: 35px;
+    }
+    .plan {
+        gap: 160px;
+    }   
+}
+@media(max-width:1200px){
+    .enter-text h1 {
+        font-size: 37px;
+        width: 433px;
+    }
+    .enter-text p {
+        font-size: 17px;
+        width: 335px;
+        line-height: 28px;
+    }
+    .input input {
+        width: 250px;
+        border-radius: 40px;
+    }
+    .input-text {
+        position: absolute;
+        bottom: 9px;
+        left: 225px;
+    }
+    .market1 img {
+        width: 248px;
+    }
+    .ent {
+        top: -328px;
+        left: 665px;
+    }
+    .market1 {
+        top: -200px;
+        left: 480px;
+    }
+    .imm2 {
+        top: 403px;
+        left: 680px;
+        transform: rotate(90deg);
+    }
+    .imm3 {
+        top: 197px;
+        left: 468px;
+    }
+    .imm {
+        top: -630px;
+        left: 468px;
+    }
+    .imm4 {
+        top: 825px;
+        left: 260px;
+        transform: rotateY(180deg);
+    }
+    .computer-box1 {
+        padding: 10px;
+        gap: 35px;
+        border-radius: 15px;
+        width: 290px;
+        height: 44px;
+    }
+}
+@media(max-width:1180px){
+    .imm3 {
+        top: 197px;
+        left: 460px;
+    }
+    .imm {
+        top: -630px;
+        left: 460px;
+    }
+    .imm2 {
+        top: 403px;
+        left: 675px;
+        transform: rotate(90deg);
+    }
+    .ent {
+        top: -328px;
+        left: 645px;
+    }
+    .market1 {
+        top: -200px;
+        left: 465px;
+    }
+    .ol {
+        width: 750px;
+    }
+    .popular-box {
+        padding: 25px;
+        width: 335px;
+        border-radius: 10px;
+    }
+    .pages-box {
+        padding: 16px;
+        width: 265px;
+        border-radius: 13px;
+    }
+    .computer-box1 {
+        padding: 10px;
+        gap: 35px;
+        border-radius: 15px;
+        width: 285px;
+        height: 44px;
+    }
+    .computer-box {
+        padding: 14px;
+        border-radius: 15px;
+        width: 250px;
+        height: 54px;
+    }
+    .color {
+        border-radius: 30px;
+        width: 45px;
+    }
+    .about img {
+        width: 315px;
+    }
+    .market img {
+        width: 225px;
+    }
+    .about-text h1 {
+        width: 512px;
+        font-size: 47px;
+        font-weight: 600;
+    }
+    .w12 {
+        width: 88px;
+        display: flex;
+        align-items: center;
+    }
+    .about-text p {
+        width: 387px;
+        font-size: 16px;
+        color: rgba(152, 162, 179, 1);
+        line-height: 26px;
+    }
+    .computer {
+        gap: 35px;
+        width: 600px;
+    }
+    .www {
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+        padding-block: 40px;
+        gap: 40px;
+    }
+}
+@media(max-width:1140px){
+    .enter-text h1 {
+        font-size: 37px;
+        width: 239px;
+    }
+    .input input {
+        width: 220px;
+    }
+    .input-text {
+        bottom: 9px;
+        left: 195px;
+    }
+    .market1 img {
+        width: 240px;
+    }
+    .ent {
+        top: -328px;
+        left: 615px;
+    }
+    .market1 {
+        top: -200px;
+        left: 430px;
+    }
+    .enter {
+        padding: 90px;
+        height: 180px;
+    }
+    .ol {
+        width: 730px;
+    }
+    .imm3 {
+        top: 197px;
+        left: 445px;
+    }
+    .imm2 {
+        top: 403px;
+        left: 660px;
+        transform: rotate(90deg);
+    }
+    .imm {
+        top: -630px;
+        left: 445px;
+    }
+    .imm4 {
+        top: 825px;
+        left: 255px;
+        transform: rotateY(180deg);
+    }
+    .company-box {
+        width: 295px;
+        padding: 5px;
+        border-radius: 15px;
+        gap: 10px;
+    }
+    .about-text h1 {
+        width: 501px;
+        font-size: 46px;
+    }
+    .about {
+        padding-block: 115px;
+        gap: 1px;
+        width: 900px;
+    }
+    .color-red {
+        top: -440px;
+        left: 555px;
+        z-index: -1;
+    }
+    .color1-red {
+        top: -205px;
+        left: 610px;
+    }
+    .color-blue {
+        bottom: -104px;
+        left: 845px;
+    }
+    .market img {
+        width: 220px;
+    }
+    .market {
+        top: -284px;
+        left: 870px;
+    }
+    .company-box img {
+        width: 79px;
+        height: 84px;
+    }
+    .enter-text p {
+        font-size: 16px;
+        width: 281px;
+        line-height: 24px;
+    } 
+}
+@media(max-width:1137px){
+    .pages-box {
+        padding: 15px;
+        width: 264px;
+        border-radius: 13px;
+    }
+    .pages-box img {
+        height: 130px;
+        padding: 0 0 14px 0;
+    }
+    .box {
+        gap: 30px;
+    }
+    .imm3 {
+        top: 197px;
+        left: 442px;
+    }
+    .imm2 {
+        top: 403px;
+        left: 657px;
+        transform: rotate(90deg);
+    }
+    .imm {
+        top: -630px;
+        left: 442px;
+    }
+    .imm4 {
+        top: 825px;
+        left: 250px;
+        transform: rotateY(180deg);
+    }
+}
+@media(max-width:1115px){
+    .box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 60px;
+    }
+    .home-text nav {
+        width: 475px;
+    }
+    .about-text {
+        display: flex;
+        flex-direction: column;
+        gap: 26px;
+    }
+    .about {
+        padding-block: 115px;
+        gap: 1px;
+        width: 885px;
+    }
+    .market {
+        top: -284px;
+        left: 855px;
+    }
+    .market1 {
+        top: -200px;
+        left: 410px;
+    }
+    .ent {
+        top: -328px;
+        left: 590px;
+    }
+    .input input {
+        padding: 12px 0 15px 15px;
+    }
+    ul {
+        color: rgba(128, 107, 127, 1);
+        font-size: 13px;
+    }
+    .ul h6 {
+        font-size: 18px;
+        color: #000;
+    }
+    .ol {
+        width: 695px;
+    }
+    .plan {
+        gap: 155px;
+    }
+    .imm3 {
+        top: 197px;
+        left: 435px;
+    }
+    .imm2 {
+        top: 403px;
+        left: 645px;
+    }
+    .imm {
+        top: -630px;
+        left: 435px;
+    }
+    .imm4 {
+        top: 825px;
+        left: 235px;
+    }
+    .company {
+        padding-block: 30px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}
+@media(max-width:1080px){
+    .company {
+    gap: 50px;
+    padding-block: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.imm {
+    top: -630px;
+    left: 415px;
+}
+.imm3 {
+    top: 197px;
+    left: 415px;
+}
+.imm2 {
+    top: 403px;
+    left: 625px;
+}
+.ent img {
+    height: 380px;
+}
+.market1 img {
+    width: 235px;
+}
+.market1 {
+    top: -200px;
+    left: 405px;
+}
+.ent {
+    top: -328px;
+    left: 580px;
+}
+.about {
+    padding-block: 100px;
+    gap: 1px;
+    width: 845px;
+}
+.about img {
+    width: 310px;
+}
+.market img {
+    width: 210px;
+}
+.market {
+    top: -284px;
+    left: 815px;
+}
+.about-text {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.about-text h1 {
+    width: 490px;
+    font-size: 45px;
+}
+.color1-red {
+    top: -205px;
+    left: 553px;
+}
+.color-red{
+    left: 480px;
+}
+.color-blue {
+    bottom: -82px;
+    left: 803px;
+}
+}
+@media(max-width:1050px){
+    .enter-text h1 {
+        font-size: 36px;
+        width: 233px;
+    }
+    .enter-text p {
+        font-size: 15px;
+        width: 201px;
+        line-height: 24px;
+    }
+    .input input {
+        width: 202px;
+    }
+    .input-text {
+        bottom: 9px;
+        left: 180px;
+    }
+    .market1 img {
+        width: 230px;
+    }
+    .market1 {
+        top: -200px;
+        left: 375px;
+    }
+    .ent {
+        top: -328px;
+        left: 550px;
+    }
+    .ol {
+        width: 655px;
+    }
+    .imm3 {
+        top: 197px;
+        left: 410px;
+    }
+    .imm2 {
+        top: 403px;
+        left: 620px;
+    }
+    .imm {
+        top: -630px;
+        left: 410px;
+    }
+    .imm4 {
+        top: 825px;
+        left: 230px;
+    }
+    
+}
+@media(max-width:1020px){
+    .about img {
+        width: 300px;
+    }
+    .market img {
+        width: 200px;
+    }
+    .about {
+        padding-block: 100px;
+        gap: 1px;
+        width: 795px;
+    }
+    .market {
+        top: -270px;
+        left: 760px;
+    }
+    .about-text h1 {
+        width: 303px;
+        font-size: 44px;
+    }
+    .about-text p {
+        width: 309px;
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .color-blue {
+        bottom: -82px;
+        left: 765px;
+    }
+    .w12 {
+        width: 80px;
+        display: flex;
+        align-items: center;
+    }
+    .market1 {
+        top: -200px;
+        left: 345px;
+    }
+    .ent {
+        top: -328px;
+        left: 525px;
+    }
+    .imm2 {
+        top: 403px;
+        left: 605px;
+    }
+    .imm3 {
+        top: 197px;
+        left: 390px;
+    }
+    .imm {
+        top: -630px;
+        left: 390px;
+    }
+    .imm4 {
+        top: 825px;
+        left: 185px;
+    }
+}
+@media(max-width:960px){
+    .imm2 {
+        top: 403px;
+        left: 580px;
+    }
+    .imm {
+        top: -630px;
+        left: 370px;
+    }
+    .imm3 {
+        top: 197px;
+        left: 375px;
+    }
+    .imm4 {
+        top: 825px;
+        left: 180px;
+    }
+    .enter {
+        padding: 90px;
+        height: 800px;
+        flex-direction: column;
+    }
+    .ent {
+        top: -615px;
+        left: 245px;
+        text-align: center;
+    }
+    .market1 {
+        top: -250px;
+        left: 275px;
+    }
+    .market1 img {
+        width: 260px;
+    }
+    .enter-text {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        text-align: center;
+        width: 217px;
+    }
+    .enter-text p {
+        font-size: 15px;
+        width: 225px;
+        line-height: 24px;
+        display: flex;
+        justify-content: center;
+    }
+    .about {
+        padding-block: 100px;
+        gap: 1px;
+        width: 760px;
+    }
+    .market {
+        top: -285px;
+        left: 720px;
+    }
+    .color1-red {
+        top: -205px;
+        left: 485px;
+    }
+    .color-red{
+        left: 380px;
+    } 
+    .color-blue {
+        bottom: -82px;
+        left: 685px;
+    }
+    .about img {
+        width: 290px;
+    }
+    .ol {
+        width: 585px;
+    }
+    .end-text p {
+        font-size: 16px;
+        color: #000;
+    }
+    .end-text button {
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 20px;
+        gap: 10px;
+    } 
+}
+@media(max-width:930px){
+    .plan {
+        gap: 140px;
+    }
+    .imm2 {
+        top: 403px;
+        left: 555px;
+    }
+    .imm {
+        top: -610px;
+        left: 350px;
+    }
+    .imm3 {
+        top: 185px;
+        left: 360px;
+    }
+    .imm4 {
+        top: 805px;
+        left: 155px;
+    }
+    .about {
+        padding-block: 100px;
+        gap: 1px;
+        width: 730px;
+    }
+    .market {
+        top: -290px;
+        left: 690px;
+    }
+    .company {
+        gap: 48px;
+        padding-block: 30px;
+    }
+}
+@media(max-width:900px){
+    .imm3 {
+        top: 185px;
+        left: 343px;
+    }
+    .imm2 {
+        top: 390px;
+        left: 540px;
+    }
+    .imm {
+        top: -610px;
+        left: 339px;
+    }
+    ul {
+        color: rgba(128, 107, 127, 1);
+        font-size: 12px;
+    }
+    .ol {
+        width: 530px;
+    }
+    .ul h6 {
+        font-size: 17px;
+        color: #000;
+    }
+    .contact-text p {
+        font-size: 13px;
+        color: #141414;
+        width: 165px;
+    }
+    p {
+        font-size: 15px;
+    }  
+    .burger-menu{
+        display: flex;
+    }  
+    nav a{
+        display: none;
+    }
+    .home-btn button{
+        display: none;
+    }
+    .about img {
+        width: 286px;
+    }
+    .about-text h1 {
+        width: 290px;
+        font-size: 42px;
+    }
+    .market img {
+        width: 195px;
+    }
+    .about-text h3 {
+        color: rgba(152, 162, 179, 1);
+        font-size: 20px;
+    }
+    .w12 {
+        width: 80px;
+        display: flex;
+        align-items: center;
+        display: none;
+    }
+    .about {
+        padding-block: 100px;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .market {
+        top: -256px;
+        left: 707px;
+    }
+    .about-text {
+        gap: 25px;
+        width: 265px;
+    }
+    .btn-btn button {
+        padding: 10px 17px;
+        width: 133px;
+        border-radius: 7px;
+    }
+    .color1-red {
+        top: -81px;
+        left: 350px;
+    }
+    .color-blue {
+        bottom: -515px;
+        left: 610px;
+    }
+    .market {
+        top: -220px;
+        left: 475px;
+    }
+    .color-red{
+        left: 190px;
+        top: -370px;
+    }
+    .ent {
+        top: -615px;
+        left: 240px;
+        text-align: center;
+    }
+    .market1 {
+        top: -250px;
+        left: 270px;
+    }
+    
+}
+@media(max-width:800px){
+    .imm3 {
+        top: 185px;
+        left: 295px;
+    }
+    .imm2 {
+        top: 390px;
+        left: 510px;
+    }
+    .imm {
+        top: -610px;
+        left: 300px;
+    }
+    .imm4 {
+        top: 805px;
+        left: 112px;
+    }
+}
+@media(max-width:799px){
+    .imm2 {
+        top: 390px;
+        left: 299px;
+    }
+    .imm3 {
+        top: 811px;
+        left: 296px;
+        transform: rotate(90deg);
+    }
+    .imm4 {
+        top: 1628px;
+        left: 465px;
+        transform: rotate(-40deg);
+    }
+    .imm {
+        top: -830px;
+        left: 300px;
+        transform: rotate(270deg);
+    }
+    .ent {
+        top: -615px;
+        left: 190px;
+        text-align: center;
+    }
+    .market1 {
+        top: -250px;
+        left: 220px;
+    }
+    .ol {
+        width: 450px;
+    }
+    .ul h6 {
+        font-size: 16px;
+        color: #000;
+    }
+    .contact-text {
+        display: flex;
+        flex-direction: column;
+        gap: 9px;
+    }
+    .contact-text p {
+        font-size: 12px;
+        color: #141414;
+        width: 93px;
+    }
+    .contact-text a {
+        font-size: 13px;
+    }
+}
+@media(max-width:750px){
+    .about-text {
+        gap: 25px;
+        width: 305px;
+        text-align: center;
+    }
+    .shop-text h1 {
+        font-size: 43px;
+        width: 450px;
+    }
+    .text h1 {
+        font-size: 43px;
+        font-weight: 600;
+    }
+    .about {
+        padding-block: 100px;
+        justify-content: center;
+        flex-direction: column;
+        width: 650px;
+    }
+    .color-blue {
+        bottom: -515px;
+        left: 555px;
+    }
+    .market {
+        top: -220px;
+        left: 425px;
+    }
+    .color-red{
+        left: 170px;
+        top: -370px;
+    }
+}
+@media(max-width:705px){
+    .about {
+        width: 615px;
+    }
+    .market {
+        top: -220px;
+        left: 406px;
+    }
+    .color1-red {
+        top: -81px;
+        left: 225px;
+    }
+    .color-blue {
+        bottom: -515px;
+        left: 520px;
+    }
+
+    .imm2 {
+        top: 390px;
+        left: 260px;
+    }
+    .imm3 {
+        top: 811px;
+        left: 260px;
+        transform: rotate(90deg);
+    }
+    .imm {
+        top: -830px;
+        left: 260px;
+        transform: rotate(270deg);
+    }
+    .imm4 {
+        top: 1628px;
+        left: 440px;
+        transform: rotate(-40deg);
+    }
+    .ent {
+        top: -615px;
+        left: 150px;
+        text-align: center;
+    }
+    .market1 {
+        top: -250px;
+        left: 175px;
+    }
+    .ol {
+        width: 420px;
+    }
+    /* .burger-menu{
+        display: none;
+    } */
+}
+@media(max-width:613px){
+    .about {
+        width: 500px;
+    }
+    .market {
+        top: -220px;
+        left: 335px;
+    }
+    .color-blue {
+        bottom: -515px;
+        left: 445px;
+    }
+    .text p {
+        width: 390px;
+        font-weight: 600;
+        font-size: 16px;
+        text-align: center;
+        line-height: 25px;
+    }
+    .text h1 {
+        font-size: 42px;
+        font-weight: 600;
+    }
+    .shop-text h1 {
+        font-size: 41px;
+        width: 357px;
+    }
+    .imm2 {
+        top: 390px;
+        left: 215px;
+    }
+    .computer-box1 {
+        padding: 10px;
+        gap: 35px;
+        border-radius: 15px;
+        width: 265px;
+        height: 44px;
+    }
+    .imm3 {
+        top: 790px;
+        left: 220px;
+        transform: rotate(90deg);
+    }
+    .imm {
+        top: -800px;
+        left: 230px;
+        transform: rotate(270deg);
+    }
+    .imm4 {
+        top: 1566px;
+        left: 385px;
+        transform: rotate(-40deg);
+    }
+    .ent {
+        top: -615px;
+        left: 110px;
+        text-align: center;
+    }
+    .market1 {
+        top: -250px;
+        left: 140px;
+    }
+    .ol {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .contact {
+        padding-block: 50px;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .contact-text {
+        gap: 9px;
+        text-align: center;
+    }
+    p {
+        font-size: 12px;
+    }
+    .end-text button {
+        padding: 10px 20px;
+        font-size: 14px;
+        border-radius: 20px;
+        gap: 4px;
+    }
+    .end-text p {
+        font-size: 14px;
+        color: #000;
+    }
+
+}
+@media(max-width:550px){
+    .ent {
+        top: -615px;
+        left: 75px;
+        text-align: center;
+    }
+    .market1 {
+        top: -250px;
+        left: 100px;
+    }
+    .imm4 {
+        top: 1566px;
+        left: 361px;
+        transform: rotate(-40deg);
+    }
+    .imm {
+        top: -800px;
+        left: 197px;
+        transform: rotate(270deg);
+    }
+    .imm3 {
+        top: 790px;
+        left: 187px;
+        transform: rotate(90deg);
+    }
+    .imm2 {
+        top: 390px;
+        left: 187px;
+    }   
+    .popular-box {
+        padding: 25px;
+        width: 320px;
+        border-radius: 10px;
+    }
+    .text h1 {
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .text {
+        padding-block: 40px;
+        gap: 20px;
+    }
+    .about {
+        width: 465px;
+    }
+    .market {
+        top: -220px;
+        left: 315px;
+    }
+    .color1-red {
+        top: -81px;
+        left: 155px;
+    }
+    .color-blue {
+        bottom: -515px;
+        left: 415px;
+    }
+    .color-red{
+        left: 90px;
+    }
+}
+@media(max-width:500px){
+    .about img {
+        width: 280px;
+    }
+    .market img {
+        width: 190px;
+    }
+    .market {
+        top: -220px;
+        left: 287px;
+    }
+    .color-blue {
+        bottom: -515px;
+        left: 392px;
+    }
+    .pages h1 {
+        width: 377px;
+        text-align: center;
+        font-size: 43px;
+        color: rgba(16, 24, 40, 1);
+        font-weight: 600;
+    }
+    .about {
+        width: 425px;
+    }
+    .text h1 {
+        font-size: 40px;
+        width: 421px;
+        font-weight: 600;
+    }
+    .text p {
+        width: 351px;
+        font-weight: 600;
+        font-size: 16px;
+    }
+    .shop-text h1 {
+        font-size: 39px;
+        width: 357px;
+    }
+    .imm2 {
+        top: 390px;
+        left: 165px;
+    }
+    .imm3 {
+        top: 790px;
+        left: 165px;
+        transform: rotate(90deg);
+    }
+    .imm {
+        top: -800px;
+        left: 165px;
+        transform: rotate(270deg);
+    }
+    .imm4 {
+        top: 1566px;
+        left: 335px;
+        transform: rotate(-40deg);
+    }
+    .ent img {
+        height: 360px;
+    }
+    .ent {
+        top: -615px;
+        left: 63px;
+        text-align: center;
+    }
+    .market1 {
+        top: -255px;
+        left: 85px;
+    }
+}
+@media(max-width:425px){
+    .about {
+        width: 350px;
+        padding-block: 140px;
+    }
+    .about-text h1 {
+        width: 290px;
+        font-size: 40px;
+    }
+    .market {
+        top: -125px;
+        left: 120px;
+    }
+    .about img {
+        width: 259px;
+    }
+    .color-blue {
+        bottom: -540px;
+        left: 325px;
+    }
+    .color-red{
+        left: 40px;
+    }
+    .color1-red {
+        top: -113px;
+        left: 107px;
+        z-index: -1;
+    }
+    .pages h1 {
+        width: 300px;
+        font-size: 34px;
+        font-weight: 600;
+    }
+    .text p {
+        width: 299px;
+        font-weight: 600;
+        font-size: 15px;
+        text-align: center;
+        line-height: 25px;
+    }
+    .text h1 {
+        width: 300px;
+        font-size: 34px;
+        font-weight: 600;
+    }
+    .end-text {
+        display: flex;
+        align-items: center;
+        gap: 11px;
+    }
+    .end-text button {
+        padding: 7px 6px;
+        font-size: 12px;
+        border-radius: 20px;
+        gap: 4px;
+    }
+    .end-text p {
+        font-size: 12px;
+        color: #000;
+    }
+    .op {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+    .imm4 {
+        top: 1560px;
+        left: 290px;
+        transform: rotate(-40deg);
+    }
+    .imm {
+        top: -800px;
+        left: 140px;
+        transform: rotate(270deg);
+    }
+    .imm3 {
+        top: 790px;
+        left: 135px;
+        transform: rotate(90deg);
+    }
+    .imm2 {
+        top: 390px;
+        left: 145px;
+    }
+    .shop-text h1 {
+        font-size: 34px;
+        width: 300px;
+    }
+    element.style {
+        width: 85px;
+    }
+    .ent img {
+        height: 345px;
+    }
+    .ent {
+        top: -615px;
+        left: 40px;
+        text-align: center;
+    }
+    .market1 img {
+        width: 250px;
+    }
+    .market1 {
+        top: -260px;
+        left: 60px;
+    }
+    .company {
+        gap: 48px;
+        padding-block: 65px;
+    }
+    .imm4 {
+        top: 1560px;
+        left: 290px;
+        transform: rotate(-40deg);
+    }
+    .popular-box {
+        padding: 20px;
+        width: 290px;
+        border-radius: 10px;
+    }
+}
+@media(max-width:405px){
+    .imm4 {
+        top: 1560px;
+        left: 280px;
+        transform: rotate(-40deg);
+    }
+    .ent img {
+        height: 340px;
+    }
+    .market1 img {
+        width: 245px;
+    }
+    .market1 {
+        top: -260px;
+        left: 50px;
+    }
+    .ent {
+        top: -615px;
+        left: 35px;
+        text-align: center;
+    }
+    .input input {
+        width: 195px;
+    }
+    .input-text {
+        bottom: 9px;
+        left: 175px;
+    }
+    .plan5-box {
+        width: 260px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .plan4-box {
+        width: 260px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .plan3-box {
+        width: 260px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .plan2-box {
+        width: 260px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .plan-box {
+        width: 260px;
+        border-radius: 10px;
+        padding-block: 40px;
+    }
+    .imm {
+        top: -800px;
+        left: 135px;
+        transform: rotate(270deg);
+    }
+    .imm2 {
+        top: 390px;
+        left: 135px;
+    }
+    .end {
+        padding-block: 50px;
+        flex-wrap: wrap;
+    }
+    .end-text {
+        display: flex;
+        align-items: center;
+        gap: 25px;
+    }
+    .contact {
+        padding-block: 50px;
+        flex-wrap: wrap;
+        gap: 25px;
+    }
+    .ul h6 {
+        font-size: 14px;
+        color: #000;
+    }
+}
